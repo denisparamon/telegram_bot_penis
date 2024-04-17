@@ -1,0 +1,6 @@
+composer.phar
+.idea
+vendor
+storage
+.env
+index.php
